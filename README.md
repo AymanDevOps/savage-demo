@@ -6,7 +6,7 @@
 
 Immerse yourself in the world of 21 Savage's lyrical wisdom. This interactive web application allows fans and curious browsers alike to react to a collection of quotes from the artist. Each quote comes with options to like or dislike, creating an engaging user experience.
 
-![21 Savage Quote Reactor Preview]!(<public/sav demo.png>)
+![demo](<public/sav demo.png>)
 
 ## Tech Stack 🖥️
 
